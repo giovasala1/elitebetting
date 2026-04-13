@@ -212,8 +212,8 @@ export default function App() {
                 </div>
 
                 <a
-                  href="https://buy.stripe.com/8x2eVe3M29N01SLgbO3oA06"
-                  onClick={(e) => handlePurchase(e, telegramUsername2, setError2, "https://buy.stripe.com/8x2eVe3M29N01SLgbO3oA06")}
+                  href="https://buy.stripe.com/7sY3cwdmCcZcgNF4t63oA08"
+                  onClick={(e) => handlePurchase(e, telegramUsername2, setError2, "https://buy.stripe.com/7sY3cwdmCcZcgNF4t63oA08")}
                   className="w-full bg-apple-blue hover:bg-apple-blue-hover text-white rounded-full py-4 px-6 font-medium text-lg flex items-center justify-center gap-2 transition-colors duration-200"
                 >
                   Diventa VIP
